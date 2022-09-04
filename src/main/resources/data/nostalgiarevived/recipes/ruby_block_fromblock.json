@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "nostalgiarevived:ruby_block"
+    }
+  ],
+  "result": {
+    "item": "nostalgiarevived:ruby",
+    "count": 9
+  }
+}

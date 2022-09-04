@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "planks"
+        },
+        {
+            "item": "minecraft:light_blue_dye"
+        }
+    ],
+    "result": {
+        "item": "nostalgiarevived:light_blue_plank"
+    }
+}

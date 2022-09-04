@@ -1,0 +1,38 @@
+{
+    "itemGroup.nostalgiarevived.quiver": "Nostalgia Revived",
+    "item.nostalgiarevived.quiver": "Quiver",
+
+    "item.nostalgiarevived.ruby": "Ruby",
+    "block.nostalgiarevived.ruby_ore": "Ruby Ore",
+    "block.nostalgiarevived.ruby_block": "Ruby Block",
+
+    "block.nostalgiarevived.black_plank": "Black Planks",
+    "block.nostalgiarevived.blue_plank": "Blue Planks",
+    "block.nostalgiarevived.white_plank": "White Planks",
+    "block.nostalgiarevived.red_plank": "Red Planks",
+    "block.nostalgiarevived.green_plank": "Green Planks",
+    "block.nostalgiarevived.brown_plank": "Brown Planks",
+    "block.nostalgiarevived.purple_plank": "Purple Planks",
+    "block.nostalgiarevived.cyan_plank": "Cyan Planks",
+    "block.nostalgiarevived.light_gray_plank": "Light Gray Planks",
+    "block.nostalgiarevived.orange_plank": "Orange Planks",
+    "block.nostalgiarevived.magenta_plank": "Magenta Planks",
+    "block.nostalgiarevived.light_blue_plank": "Light Blue Planks",
+    "block.nostalgiarevived.lime_plank": "Lime Planks",
+    "block.nostalgiarevived.pink_plank": "Pink Planks",
+    "block.nostalgiarevived.yellow_plank": "Yellow Planks",
+    "block.nostalgiarevived.gray_plank": "Gray Planks",
+
+
+
+    "item.nostalgiarevived.ruby_sword": "Ruby Sword",
+    "item.nostalgiarevived.ruby_axe": "Ruby Axe",
+    "item.nostalgiarevived.ruby_hoe": "Ruby Hoe",
+    "item.nostalgiarevived.ruby_shovel": "Ruby Shovel",
+    "item.nostalgiarevived.ruby_pickaxe": "Ruby Pickaxe",
+
+    "item.nostalgiarevived.ruby_helmet": "Ruby Helmet",
+    "item.nostalgiarevived.ruby_chestplate": "Ruby Chestplate",
+    "item.nostalgiarevived.ruby_leggings": "Ruby Leggings",
+    "item.nostalgiarevived.ruby_boots": "Ruby Boots"
+}
